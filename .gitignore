@@ -1,0 +1,40 @@
+# CAD temporary files
+*.bak
+*.old
+*.swp
+*.sldtmp
+~$*
+
+# Solver temporary outputs
+*.lock
+*.lck
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# MATLAB generated/cache files
+*.asv
+slprj/
+codegen/
+*.mex*
+*.slxc
+
+# OS/editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Do not blanket-ignore all CAD or simulation results.
+# Review large binaries and consider Git LFS / Releases.

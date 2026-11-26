@@ -61,8 +61,9 @@ These are targets, not verified capabilities or released specifications.
 1. Read [the project plan](docs/project-plan.md).
 2. Review [the requirements register](docs/requirements.md).
 3. Review [the vehicle architecture](docs/vehicle-architecture.md).
-4. Start with benchmarking, a source register, and a first-pass mass budget.
-5. Record unresolved choices in [the design decision log](docs/design-decisions/README.md).
+4. Establish the master layout using [the geometry and packaging baseline](docs/geometry-and-packaging.md).
+5. Start with benchmarking, a source register, and a first-pass mass budget.
+6. Record unresolved choices in [the design decision log](docs/design-decisions/README.md).
 
 ## Engineering rules
 

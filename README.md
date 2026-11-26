@@ -46,7 +46,7 @@ These are targets, not verified capabilities or released specifications.
 
 ## Repository map
 
-- `docs/` — project plan, requirements, architecture, design decisions
+- `docs/` — project plan, requirements, architecture, design decisions, and phase checklists
 - `research/` — benchmarking, references, component database
 - `calculations/` — vehicle dynamics, powertrain, braking, steering, chassis, electrical
 - `cad/` — SOLIDWORKS parts, assemblies, drawings, neutral exports
@@ -61,8 +61,8 @@ These are targets, not verified capabilities or released specifications.
 1. Read [the project plan](docs/project-plan.md).
 2. Review [the requirements register](docs/requirements.md).
 3. Review [the vehicle architecture](docs/vehicle-architecture.md).
-4. Establish the master layout using [the geometry and packaging baseline](docs/geometry-and-packaging.md).
-5. Start with benchmarking, a source register, and a first-pass mass budget.
+4. Review [the geometry and packaging baseline](docs/geometry-and-packaging.md).
+5. Start with the [Phase 1 research and benchmarking checklist](docs/phase-1-research-and-benchmarking.md).
 6. Record unresolved choices in [the design decision log](docs/design-decisions/README.md).
 
 ## Engineering rules
